@@ -1,6 +1,8 @@
 # 中文人名语料库（Chinese-Names-Corpus）
 某业余项目的副产品。不定期更新。只删词，不加词。
 
+**NOTE** [中文维基百科语料](https://dumps.wikimedia.org/zhwiki/)
+
 可用于中文分词、人名识别。
 
 #### 中文常见人名（Chinese_Names_Corpus）
